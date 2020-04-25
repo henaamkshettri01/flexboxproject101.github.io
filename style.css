@@ -1,0 +1,23 @@
+*{
+    padding:0;
+    margin:0;
+}
+ .container{
+     height: 600px;
+     background-color:#663399;
+     padding:30px;
+     display:flex;
+    flex-flow: column-reverse wrap-reverse;
+    justify-content: center;
+    height: 1500px;
+     margin: 20px;
+     padding: 20px;
+
+ }
+ .item{
+     border:5px solid #fff2cc;
+     background-color: #f28800;
+     font-size: 30px;
+     margin:30px;
+     padding:30px;
+ }
